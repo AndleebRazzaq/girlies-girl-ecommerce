@@ -1,4 +1,3 @@
-
 # Girlies Girl – E-Commerce Website
 
 A responsive frontend e-commerce application built with HTML, CSS, and JavaScript.  
@@ -27,9 +26,16 @@ The project emphasizes structured code organization, reusable components, and re
 - JSON (product data)
 ## Screenshots
 
-<img src="screenshots/home.png" width="300"/>
-<img src="screenshots/products.png" width="300"/>
-<img src="screenshots/cart.png" width="300"/
+<img src="screenshots/home.png" width="400"/>
+<img src="screenshots/trending.png" width="400"/>
+<img src="screenshots/shop_categories.png" width="400"/>
+<img src="screenshots/blogs.png" width="400"/>
+<img src="screenshots/addtocart.png" width="400"/
+<img src="screenshots/checkout.png" width="400"/>
+<img src="screenshots/login_authentic.png" width="400"/>
+<img src="screenshots/sign_up.png" width="400"/>
+<img src="screenshots/contact.png" width="400"/>
+
 
 ## Key Concepts Demonstrated
 
