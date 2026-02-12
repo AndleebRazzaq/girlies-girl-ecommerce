@@ -1,0 +1,342 @@
+[
+    {
+        "id": 1,
+        "name": "Ultimate Pink cardigan with Tops",
+        "price": "$22.00",
+        "images": [
+            "images/woman/product-3.jpeg"
+        ],
+        "category": "Cardigans",
+        "isTrending": true,
+        "description": "Ultimate Crop Bandeau Tops are ideal for layering or wearing on their own. Made with soft, stretchy fabric for a comfortable fit."
+    },
+    {
+        "id": 2,
+        "name": "Puffer",
+        "price": "$128.00",
+        "images": [
+            "images/woman/product-1.jpeg"
+        ],
+        "category": "Cardigans",
+        "isTrending": true,
+        "description": "The Quilted Heeled Mule Sandal combines elegance and comfort. Perfect for dressing up any outfit with a touch of sophistication."
+    },
+    
+    {
+        "id": 3,
+        "name": "Trending Block Print Tops",
+        "price": "$199.00",
+        "images": [
+            "images/Accessories/download-23.jpeg"
+        ],
+        "isTrending":true,
+        "category": "Cardigans",
+        "description": "The Denim Jacket Sun Bleached offers a stylish and trendy look with its sun-bleached finish. Perfect for layering over casual outfits, this jacket is made from high-quality denim and features a comfortable fit. Ideal for adding a touch of edge to your wardrobe."
+    },
+    {
+        "id": 4,
+        "name": "Cute Pink Camera ",
+        "price": "$22.00",
+        "images": [
+            "images/Accessories/product-8.jpeg"
+        ],
+        "category": "Accessories",
+        "isTrending":true,
+        "description": "The Miley Triangle Hair Scarf is a versatile accessory that can be styled in multiple ways. Made from soft, breathable fabric."
+    },
+    {
+        "id": 5,
+        "name": "Gilie Headphones",
+        "price": "$225.00",
+        "images": [
+            "images/Accessories/product-9.jpeg"
+        ],
+        "category": "Accessories",
+        "description": "These Girlie pink headphones look with modern protection. Perfect for adding a stylish edge to any outfit."
+    },
+    {
+        "id": 6,
+        "name": "Hand made Cardigan",
+        "price": "$85.00",
+        "images": [
+            "images/woman/product-2.jpeg"
+        ],
+        "category": "Cardigans",
+        "description": "Adilette Slide Sandals are perfect for casual wear. They feature a comfortable footbed and easy slip-on design."
+    },
+    {
+        "id": 7,
+        "name": "Pieces Short Sleeve Sweater",
+        "price": "$100.00",
+        "images": [
+            "images/woman/product-5.jpeg"
+        ],
+        "category": "Cardigans",
+        "description": "The Pieces Short Sleeve Sweater is a cozy and stylish addition to your wardrobe. Made from soft, breathable material."
+    },
+    {
+        "id": 8,
+        "name": "Simona Ribbed Cardigan",
+        "price": "$82.00 - $89.00",
+        "images": [
+            "images/woman/download-16.jpeg"
+        ],
+        "category": "Cardigans",
+        "isTrending": true,
+        "description": "Simona Ribbed Cardigan is perfect for layering. Its ribbed texture and versatile design make it a must-have for any season."
+    },
+    {
+        "id": 9,
+        "name": "Oversized White Sweater",
+        "price": "$50.00",
+        "images": [
+            "images/woman/product-4.jpeg"
+        ],
+        "category": "Cardigans",
+        "description": "The Oversized Sweater in White-colors offers a relaxed fit and vibrant design. Ideal for casual and comfortable wear."
+    },
+    {
+        "id": 10,
+        "name": "Classic Oversized Cardigan",
+        "price": "$158.00",
+        "images": [
+            "images/woman/product-44.jpeg"
+        ],
+        "category": "Cardigans",
+        "description": "This Classic Oversized Sweatshirt is perfect for a cozy and relaxed look. Made from high-quality material for added comfort."
+    },
+    {
+        "id": 11,
+        "name": "Star Design Hair Clip",
+        "price": "$54.00",
+        "images": [
+            "images/Accessories/product-45.jpeg"
+        ],
+        "category": "Jewelry",
+        "description": "The Straw Floppy Hat is a stylish accessory for sunny days. It offers great sun protection while adding a chic touch to your outfit."
+    },
+    {
+        "id": 12,
+        "name": "Pink ballet heels",
+        "price": "$86.00",
+        "images": [
+            "images/Accessories/Pink-ballet.jpeg"
+        ],
+        "category": "Footwear",
+        "description": "Cat-Eye Glasses 20257 feature a classic design with a modern twist. Perfect for adding a sophisticated touch to any look."
+    },
+    {
+        "id": 13,
+        "name": "Shoulder Bag",
+        "price": "$39.00",
+        "images": [
+            "images/Bags/product-10.jpeg"
+        ],
+        "category": "Tote-Bags",
+        "description": "The Pride Sport Hip Pack is perfect for carrying essentials hands-free. Features a vibrant design and multiple compartments for convenience."
+    },
+    {
+        "id": 14,
+        "name": "Girlie Ribbon Tote Bag",
+        "price": "$18.00",
+        "images": [
+            "images/Bags/product-11.jpeg"
+        ],
+        "category": "Tote-Bags",
+        "isTrending":true,
+        "description": "The Dance Bag Nylon is lightweight and durable, ideal for carrying dance gear or gym essentials. Features a sleek design and ample storage space."
+    },
+    {
+        "id": 15,
+        "name": "Tote Bag",
+        "price": "$188.00",
+        "images": [
+            "images/Bags/product-12.jpeg"
+        ],
+        "category": "Tote-Bags",
+        "description": "The Knit Dress In Green is a versatile piece that can be dressed up or down. Made from soft, comfortable material."
+    },
+    {
+        "id": 16,
+        "name": "Girlie Tote bag",
+        "price": "$48.00",
+        "images": [
+            "images/Bags/product-17.jpeg"
+        ],
+        "category": "Tote-Bags",
+        "description": "This Beanie In Chocolate Brown is perfect for keeping warm in style. Made from soft, stretchy fabric for a comfortable fit."
+    },
+    {
+        "id": 17,
+        "name": "Cardigan",
+        "price": "$148.00",
+        "images": [
+            "images/woman/product-6.jpeg"
+        ],
+        "category": "Cardigans",
+        "description": "The Relaxed Gym Tank Top is perfect for workouts and casual wear. Made from breathable fabric for maximum comfort."
+    },
+    {
+        "id": 18,
+        "name": "Cute Non-slip soft-indoor shoes",
+        "price": "$78.00",
+        "images": [
+            "images/Accessories/product-46.jpeg"
+        ],
+        "category": "Footwear",
+        "description": "This Oversized Graphic Sweatshirt combines comfort and style. Perfect for a relaxed, casual look."
+    },
+    {
+        "id": 19,
+        "name": "Non-slip Thick Bottom Slippers",
+        "price": "$198.00",
+        "images": [
+            "images/Accessories/product-47.jpeg"
+        ],
+        "category": "Footwear",
+        "description": "The Hoodie In Blue offers both style and comfort. Made from high-quality material for a cozy fit."
+    },
+    {
+        "id": 20,
+        "name": "Cute Women's Soft Indoor Slippers",
+        "price": "$266.00",
+        "images": [
+            "images/Accessories/product-48.jpeg"
+        ],
+        "category": "Footwear",
+        "isTrending":true,
+        "description": "This Jacket With Hood In Stone provides excellent warmth and style. Ideal for layering during cooler weather."
+    },
+    {
+        "id": 21,
+        "name": "Cute Tofu Hand-Bag",
+        "price": "$198.00",
+        "images": [
+            "images/Accessories/product-41.jpeg"
+        ],
+        "category": "Tote-Bags",
+        "description": "The Slim Formal Shirt In White is perfect for formal occasions. Made from high-quality fabric for a sharp, professional look."
+    },
+    {
+        "id": 22,
+        "name": "Sweaters Women Jumpers Autumn",
+        "price": "$106.00",
+        "images": [
+            "images/Accessories/Sweaters_Jumpers.jpeg"
+        ],
+        "category": "Cardigans",
+        "description": "Tapered Pants In Camel offer a modern fit and stylish design. Perfect for both casual and formal wear."
+    },
+    {
+        "id": 23,
+        "name": "Asthetic Key Chain",
+        "price": "$52.00",
+        "images": [
+            "images/Accessories/KeyChain.jpeg"
+        ],
+        "category": "Accessories",
+        "isTrending": true,
+        "description": "The Sleeve Flower Print Revere shirt features a unique floral design. Ideal for adding a touch of style to your wardrobe."
+    },
+    {
+        "id": 24,
+        "name": "Elegant Sweater and Skirt",
+        "price": "$35.00",
+        "images": [
+            "images/Accessories/download18.jpeg"
+        ],
+        "category": "Cardigans",
+        "description": "This Color Block Bucket Hat is perfect for a trendy look. It offers great sun protection and a stylish design."
+    },
+    {
+        "id": 25,
+        "name": "Pinkiesh Cardigan",
+        "price": "$52.00",
+        "images": [
+            "images/Accessories/download17.jpeg"
+        ],
+        "category": "Cardigans",
+        "description": "Cargo Pants With Front Pocket are practical and stylish. Perfect for casual wear with plenty of storage space."
+    },
+    {
+        "id": 26,
+        "name": "Butterfly Charm Hoop Earrings",
+        "price": "$71.00",
+        "images": [
+            "images/Jewelry/Butterfly-Charm-Hoop-Earring_03.webp",
+            "images/Jewelry/Butterfly-Charm-Hoop-Earring_02.webp"
+        ],
+        "category": "Jewelry",
+        "description": "Butterfly Charm Hoop Earrings add a whimsical touch to any outfit. Made with high-quality materials for lasting wear."
+    },
+    {
+        "id": 27,
+        "name": "Schrunchies",
+        "price": "$198.00",
+        "images": [
+            "images/Accessories/Schrunchies.jpeg"
+        ],
+        "category": "Jewelry",
+        "description": "The Row Clear Cz Ring is a stunning piece of jewelry. Features sparkling cubic zirconia for a touch of elegance."
+    },
+    {
+        "id": 28,
+        "name": "Asthtic pink Watches",
+        "price": "$71.00",
+        "images": [
+            "images/woman/product-16.jpeg"
+        ],
+        "category": "Jewelry",
+        "description": "Pin Clear Cz Ring is a stylish accessory. Made with high-quality materials and sparkling cubic zirconia."
+    },
+    {
+        "id": 29,
+        "name": "Elegant Pink Rhinestone choker",
+        "price": "$106.00",
+        "images": [
+            "images/Accessories/Elegant_Pink.jpeg"
+        ],
+        "category": "Jewelry",
+        "description": "The Gold Tone Clear Cz Ring adds a touch of luxury to any outfit. Features beautiful cubic zirconia set in gold-tone metal."
+    },
+    {
+        "id": 30,
+        "name": "Bow Earings",
+        "price": "$166.00",
+        "images": [
+            "images/woman/product-15.jpeg"
+        ],
+        "category": "Jewelry",
+        "description": "The Gold Tone Star & Moon Bracelet is a celestial-inspired piece. Perfect for adding a touch of elegance to your look."
+    },
+    {
+        "id": 31,
+        "name": "Hamdmade Beaded Necklace",
+        "price": "$195.00",
+        "images": [
+            "images/Accessories/download-22.jpeg"
+        ],
+        "category": "Jewelry",
+        "description": "The Clear Cz Floral Letter Necklace is a personalized piece. Features sparkling cubic zirconia in a floral design."
+    },
+    {
+        "id": 32,
+        "name": "Beads Earrings",
+        "price": "$86.00",
+        "images": [
+            "images/Accessories/Beads_Earrings.jpeg"
+        ],
+        "category": "Jewelry",
+        "description": "The Adjustable Bowline Necklace is versatile and stylish. Can be worn at different lengths for a custom look."
+    },
+    {
+        "id": 33,
+        "name": "Headphones",
+        "price": "$77.00",
+        "images": [
+            "images/Accessories/product-7.jpeg"
+        ],
+        "category": "Accessories",
+        "description": "Platform Canvas Sneakers provide both comfort and height. Ideal for casual outings and adding a trendy touch to your look."
+    }
+]
